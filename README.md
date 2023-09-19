@@ -17,7 +17,11 @@ Code and documentation for my custom built split keyboard.
 
 
 ## Tools
-- 3D Printer
+- 3D Printer & Slicer software (I used [Cura](https://ultimaker.com/software/ultimaker-cura/))
 - Soldering Iron & Solder
 - [Digital Calipers](https://www.amazon.com/dp/B07X8JQ8L5?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - Wiring: I just recycled some old cat4/cat5 cables I had lying around
+- CAD software: I used [TinkerCAD](https://www.tinkercad.com)
+
+## Software
+This keyboard uses the [KMK formware](http://kmkfw.io/). All the code was edited in VSCode.
