@@ -11,6 +11,7 @@ Code and documentation for my custom built split keyboard.
 - [Header Pins](https://www.amazon.com/dp/B09F2NZ3GB?psc=1&ref=ppx_yo2ov_dt_b_product_details)   6$
 - [Rotary Encoders (for the volume knob)](https://www.amazon.com/dp/B07F24TRYG?psc=1&ref=ppx_yo2ov_dt_b_product_details)    10$
 - [Diodes](https://www.amazon.com/dp/B07Q4F3Y5W?psc=1&ref=ppx_yo2ov_dt_b_product_details)   6$
+- [Rubber Feet](https://www.amazon.com/dp/B0B2KSPPHS?psc=1&ref=ppx_yo2ov_dt_b_product_details)  6$
 
 ### Other
 - [3D printer filament](https://www.amazon.com/dp/B0C4YSX89L?psc=1&ref=ppx_yo2ov_dt_b_product_details)
