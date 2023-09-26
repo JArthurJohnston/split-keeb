@@ -54,6 +54,9 @@ SEL_RIGHT = KC.LALT(KC.LSHIFT(KC.RIGHT))
 
 LINE_UP = KC.LALT(KC.UP)
 LINE_DOWN = KC.LALT(KC.DOWN)
+SEARCH = KC.LCTL(KC.LSHIFT(KC.F))
+RENAME = KC.F2
+EXTRACT = KC.LGUI(KC.LSHIFT(KC.R)) # Will need to switch to LCTL for windows/linux. Because apple
 
 # Thumb Keys Diagram
 #            ____                                      ____
@@ -84,8 +87,8 @@ extra_keys = [
 
 vs_code_keys = [
     _____, _____, _____, _____, _____, _____,       _____, _____, _____, _____, _____, _____, 
-    _____, _____, _____, _____, _____, _____,       _____, _____, _____, _____, _____, _____, 
-    KC.CW, _____, _____, _____, _____, _____,       _____, _____, LINE_UP, _____, _____, _____, 
+    _____, _____, _____, EXTRACT, RENAME, _____,       _____, _____, _____, _____, _____, _____, 
+    KC.CW, _____, _____, _____, SEARCH, _____,      _____, _____, LINE_UP, _____, _____, _____, 
     _____, _____, _____, _____, _____, _____,       _____, SEL_LEFT, LINE_DOWN, SEL_RIGHT, _____, 
     _____, _____, _____, _____, _____, _____,       _____, _____, _____, _____, _____, _____, 
 ]
